@@ -3,9 +3,9 @@
 ## About me
 I'm a passionate student pursuing a B.S. in Computer Science and Technology, with a strong interest in developing AI-powered applications and large-scale systems.
 
- -🌱 Currently learning React.js, TypeScript
- -👯 Open to collaborating on AI-focused projects
- -⚡ Hobbies: Enjoy competitive programming and solving challenging problems
+  - 🌱 Currently learning React.js, TypeScript
+  - 👯 Open to collaborating on AI-focused projects
+  - ⚡ Hobbies: Enjoy competitive programming and solving challenging problems
 
 ## Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
